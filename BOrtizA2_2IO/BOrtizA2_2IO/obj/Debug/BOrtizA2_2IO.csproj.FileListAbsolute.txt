@@ -1,0 +1,10 @@
+C:\Users\EffectedSage0\Desktop\BOrtizA2_2IO\BOrtizA2_2IO\bin\Debug\BOrtizA2_2IO.exe.config
+C:\Users\EffectedSage0\Desktop\BOrtizA2_2IO\BOrtizA2_2IO\bin\Debug\BOrtizA2_2IO.exe
+C:\Users\EffectedSage0\Desktop\BOrtizA2_2IO\BOrtizA2_2IO\bin\Debug\BOrtizA2_2IO.pdb
+C:\Users\EffectedSage0\Desktop\BOrtizA2_2IO\BOrtizA2_2IO\obj\Debug\BOrtizA2_2IO.csprojAssemblyReference.cache
+C:\Users\EffectedSage0\Desktop\BOrtizA2_2IO\BOrtizA2_2IO\obj\Debug\BOrtizA2_2IO.frmMain.resources
+C:\Users\EffectedSage0\Desktop\BOrtizA2_2IO\BOrtizA2_2IO\obj\Debug\BOrtizA2_2IO.Properties.Resources.resources
+C:\Users\EffectedSage0\Desktop\BOrtizA2_2IO\BOrtizA2_2IO\obj\Debug\BOrtizA2_2IO.csproj.GenerateResource.cache
+C:\Users\EffectedSage0\Desktop\BOrtizA2_2IO\BOrtizA2_2IO\obj\Debug\BOrtizA2_2IO.csproj.CoreCompileInputs.cache
+C:\Users\EffectedSage0\Desktop\BOrtizA2_2IO\BOrtizA2_2IO\obj\Debug\BOrtizA2_2IO.exe
+C:\Users\EffectedSage0\Desktop\BOrtizA2_2IO\BOrtizA2_2IO\obj\Debug\BOrtizA2_2IO.pdb
